@@ -1,0 +1,16 @@
+{
+  "autoDocstring.docstringFormat": "google",
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.minimap.enabled": false,
+  "editor.rulers": [88, 120],
+  "files.insertFinalNewline": true,
+  "files.trimFinalNewlines": true,
+  "files.trimTrailingWhitespace": true,
+  "python.formatting.provider": "black",
+  "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+  "workbench.editor.enablePreview": false,
+  "workbench.iconTheme": "vscode-icons",
+  "workbench.productIconTheme": "material-product-icons"
+}
