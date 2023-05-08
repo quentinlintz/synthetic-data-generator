@@ -1,5 +1,0 @@
--r requirements.txt
-black==23.3.0
-jupyterlab==3.6.3
-pip-check-updates==0.22.0
-pylint==2.17.4
