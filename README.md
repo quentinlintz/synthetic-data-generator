@@ -8,10 +8,12 @@ This Python script uses OpenAI's `gpt-3.5-turbo` language model to generate synt
 
 ## Getting Started
 
-    python -m venv .venv
-    source .venv/bin/activate
-    python -m pip install -U pip
-    pip install -r requirements.txt
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -U pip
+pip install -r requirements.txt
+```
 
 ## Setup
 
